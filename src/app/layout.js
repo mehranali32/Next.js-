@@ -1,5 +1,6 @@
 
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next"
 import { Header } from "@/components/common/Header";
 import { Footer } from "@/components/common/Footer";
 
